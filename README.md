@@ -1,2 +1,2 @@
 # Learning-Git
-My first Git Project
+My first Git Project. Hello GitHub
